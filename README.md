@@ -6,7 +6,7 @@
 Beyond coding, I have hands-on experience building computers from scratch, which has strengthened my technical problem-solving abilities. I'm passionate about technology and constantly seeking new challenges to grow and refine my skills.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my own antivirus 
-- 🌱 Design patterns
+- 🌱 learning Design patterns and harvard cs50
 - 📫 How to reach me:maor.ifra@gmail.com ...
 
 
